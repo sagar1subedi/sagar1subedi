@@ -1,4 +1,4 @@
-### नमस्ते (Namaste) 🙏🏻, I'm Sagar Subedi!
+###Namaste🙏🏻, I'm Sagar Subedi!
 
 🎓 Scientific Officer at NAST, Nepal  
 🌧️ Hydrology & Climate Researcher | High-Altitude Climate Systems  
