@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @sagar1subedi
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning basic data science(Python programming, Advance excel, Machine Learning etc)
-- 💞️ I’m looking to collaborate on open-source data science projects such as data cleaning, data analysis etc.
-- 📫 How to reach me: You can email at my email sagar1subedi@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I have knowledge of data cleaning and data analysis.
+### नमस्ते (Namaste) 🙏🏻, I'm Sagar Subedi!
 
-<!---
-sagar1subedi/sagar1subedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Scientific Officer at NAST, Nepal  
+🌧️ Hydrology & Climate Researcher | High-Altitude Climate Systems  
+🧠 Machine Learning for Precipitation Downscaling & Bias Correction  
+🛰️ Remote Sensing | DEM Hydrology | Geospatial Analysis  
+🛠️ Skills: Python, ML/DL, WRF, CNN, ANN, GIS, QGIS, RasterIO, Scikit-Learn  
+
+---
+
+🔭 **Current Projects:**
+- Hydrological modeling using DEM data
+- Cleaned vs Dirty Plate Image Classification using ResNet18
+
+📌 **Research Focus:**
+- High-Altitude Rainfall Events
+- Climate-Glacier Interaction
+- ML for Hydrometeorological Applications
+
+📫 **Find Me Online:**
+- 📧 Email: [sagar1subedi@gmail.com](mailto:sagar1subedi@gmail.com)
+- 🔗 Kaggle: [https://www.kaggle.com/sagar1subedi](https://www.kaggle.com/sagar1subedi)
+
+---
+
+📚 **Currently Learning:**
+- Deep Learning for Climate Data
+- Geospatial data pipelines with Python
+
+🚀 **Looking to Collaborate On:**
+- Open-source geospatial or environmental data projects
+- ML applications in climate science and remote sensing
+
+😄 **Fun Fact:** I love combining AI with environmental research!
+
