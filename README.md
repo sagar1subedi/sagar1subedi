@@ -1,35 +1,64 @@
-###Namaste🙏🏻, I'm Sagar Subedi!
+## 🙏 Namaste, I'm Sagar Subedi!
 
-🎓 Scientific Officer at NAST, Nepal  
-🌧️ Hydrology & Climate Researcher | High-Altitude Climate Systems  
-🧠 Machine Learning for Precipitation Downscaling & Bias Correction  
-🛰️ Remote Sensing | DEM Hydrology | Geospatial Analysis  
-🛠️ Skills: Python, ML/DL, WRF, CNN, ANN, GIS, QGIS, RasterIO, Scikit-Learn  
-
----
-
-🔭 **Current Projects:**
-- Hydrological modeling using DEM data
-- Cleaned vs Dirty Plate Image Classification using ResNet18
-
-📌 **Research Focus:**
-- High-Altitude Rainfall Events
-- Climate-Glacier Interaction
-- ML for Hydrometeorological Applications
-
-📫 **Find Me Online:**
-- 📧 Email: [sagar1subedi@gmail.com](mailto:sagar1subedi@gmail.com)
-- 🔗 Kaggle: [https://www.kaggle.com/sagar1subedi](https://www.kaggle.com/sagar1subedi)
+🎓 **Scientific Officer** at **NAST, Nepal**  
+🌍 Passionate about **Hydrology, Climate Science, and Geospatial Research**  
+🧠 Exploring **Machine Learning** & **Deep Learning** for environmental modeling  
+📡 Experienced with **Remote Sensing**, **DEM Hydrology**, **WRF**, and **Climate Data Analysis**
 
 ---
 
-📚 **Currently Learning:**
-- Deep Learning for Climate Data
-- Geospatial data pipelines with Python
+### 🔬 Current Focus
 
-🚀 **Looking to Collaborate On:**
-- Open-source geospatial or environmental data projects
-- ML applications in climate science and remote sensing
+- 🌧️ Bias Correction of WRF-Simulated Precipitation using ML (ANN, CNN, XGBoost)
+- 🗻 Hydrological modeling using DEM data
+- 🧼 Binary Image Classification of Cleaned vs Dirty Plates (ResNet18)
 
-😄 **Fun Fact:** I love combining AI with environmental research!
+---
 
+### 🛠️ Skills & Tools
+
+`Python` `Scikit-Learn` `Keras` `CNN/ANN` `QGIS` `Remote Sensing`  
+`DEM Analysis` `Pandas` `Matplotlib` `RasterIO` `GeoPandas` `WRF`  
+
+---
+
+### 📌 Research Interests
+
+- 📊 Machine Learning for Hydro-Meteorological Modeling  
+- 🏔️ High-Altitude Rainfall Events & Glacier-Climate Interaction  
+- 🌧️ Precipitation Downscaling and Bias Correction  
+- 🌍 Earth Observation & Geospatial Data Science
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: [sagar1subedi@gmail.com](mailto:sagar1subedi@gmail.com)  
+- 🧠 Kaggle: [kaggle.com/sagar1subedi](https://www.kaggle.com/sagar1subedi)  
+- 💻 GitHub: [github.com/sagar1subedi](https://github.com/sagar1subedi)
+
+---
+
+### 📚 Currently Learning
+
+- 🤖 Deep Learning for Climate and Earth Observation  
+- 📡 Geospatial Data Pipelines using Python  
+- 📈 Time Series Analysis with ML
+
+---
+
+### 🚀 Looking to Collaborate On
+
+- 🌐 Open-Source Climate and Environmental Data Projects  
+- 🤝 ML Models for Climate Hazards, Hydrology, and Remote Sensing  
+- 📊 Data Cleaning & Visualization for Scientific Datasets
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy blending **AI** with **climate science** to uncover insights from high-altitude weather and hydrology data!
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sagar1subedi&color=blue)
